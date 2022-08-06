@@ -6,14 +6,12 @@
 <p class="intro_p">To date, I have developed Real-Estate applications, ERP systems, Multilevel Marketing (MLM) Software, E-Learning Software, Financial Calculator, Billing Software, Map Based Web Applications, Content Streaming Webapp, and more.</p>
 <p class="intro_p">To tell you a bit about myself- I’m a freelance full-stack developer with experience in developing mobile and web applications. I’ve helped clients from various domains by developing comprehensive software solutions. (You can check my project’s section below.)</p>
 <p class="intro_p">The spectrum of my skillset begins with PHP/Laravel and goes all the way up to blockchain development. </p>
-<p class="intro_p">When we start working together, here’s what you can expect from me-
-                <ul class="li_no_bullets">
-                  <li>✔️ Thorough research for your project.</li>
-                  <li>✔️ Suitable usage of technology to build your application.</li>
-                  <li>✔️ Full customizations to match your requirements.</li>
-                  <li>✔️ Cost-effective software development and Post Deployment Support. </li>
-                  <li>✔️ Customer Assistance as quickly as possible.</li>
-                </ul>
+<p class="intro_p">When we start working together, here’s what you can expect from me - <br/>
+   &nbsp;&nbsp; ✔️ Thorough research for your project.<br/>
+   &nbsp;&nbsp; ✔️ Suitable usage of technology to build your application.<br/>
+   &nbsp;&nbsp; ✔️ Full customizations to match your requirements. <br/>
+   &nbsp;&nbsp; ✔️ Cost-effective software development and Post Deployment Support. <br/>
+   &nbsp;&nbsp; ✔️ Customer Assistance as quickly as possible. <br/>                
 </p>
             
 <p class="intro_p">I have managed to secure 100% success rates and 90% repeat clients across the globe.</p>
